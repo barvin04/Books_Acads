@@ -1,0 +1,6 @@
+According to Remzi and Andrea's "Three easy pieces", they have segregated OS into three broad parts i.e. 1. Virtualization,
+2. Concurrency and 3. Persistance.
+
+Main sub-topics:: Processes, threads, inter‐process communication, concurrency and synchronization. Deadlock. CPU scheduling. 
+Memory management and virtual memory. File systems.
+
