@@ -4,3 +4,46 @@ According to Remzi and Andrea's "Three easy pieces", they have segregated OS int
 Main sub-topics:: Processes, threads, inter‐process communication, concurrency and synchronization. Deadlock. CPU scheduling. 
 Memory management and virtual memory. File systems.
 
+
+
+
+
+concerning competitive tests:
+
+deadlock (detection and recovery, prevention and avoidance)
+semaphores(&counting semaphores) and mutex
+starvation, thrashing, deadlock
+page replacement policies (fifo
+register, cache, main memory, disk, 
+linear and non-linear pipeline
+cpu scheduling criteria/algo (sjf, ljf, ....)
+^average waiting time, average turnaround time
+no. of entries in page table = (vir addr space size)/(page size)
+peterson's algo for mutex
+virtual memory
+throughput (round-robin, shortest-job-first, highest-response-ratio-next, first-come-fist-served)
+page fault
+avg mem access time = [(% of page miss)*(time to service a page fault)+(% of page hit)*(memory access time)]/100
+context switch between processes
+general purpose registers
+translation look-aside buffer
+prog counter
+swap space (on disk)
+preemptive and non-preemptive processes examples
+user-level threads and kernel supported threads [& time to switch between them]
+fork()  [&& and ^ fork() questions)
+lru, fifo, .... 
+effective memory access time wrt to page fault rate
+avg disk access time = seek time + rotational latency
+arrival time, burst time, ...
+process switching involes mode switch(which is more), context switching can occur only in kernal mode
+page faults
+critical sections
+mutual exclusion and progress
+Belady's anomaly
+the essential content(s) in each entry of a page table
+why is multilevel page table prefereed to single level page table
+synch and asynch i/o (isr?)
+page replacement policy
+proc, resource allocation and request
+question on virtual addr and physical addr (and hardware support)
