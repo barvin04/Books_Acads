@@ -1,0 +1,56 @@
+A. Classification Techniques
+
+
+B. Unsupervised Methods
+
+
+C. Bayesian Networks
+    Naive Bayes
+    Basian Belief networks
+
+
+D. Classifier ensembles
+
+
+E. Evolutionary Algo
+
+
+F. Classical ML
+    Confusion Matrix 
+        -
+    
+    Decision Trees
+    
+    Entropy
+     
+G. Regression methods
+    Gradient Descent
+
+
+H. ANN
+    Backpropagation
+    
+I. CNN
+    Sparse Interactions
+    Parameter Sharing
+    
+    Architectures (end to end)
+        -Padding
+        -Strides
+        -Activation Function
+        -Pooling
+        ~Convolution and Pooling as an infinitely strong prior
+        -Feature extraction
+        -Alexnet, VGGnet, .... 
+J. RNN
+    Lstm and GRU
+    BPTT
+      
+K. HMM
+
+
+L. Energy based model 
+
+
+M. GNN
+   
