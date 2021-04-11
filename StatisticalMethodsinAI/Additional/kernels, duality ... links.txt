@@ -1,0 +1,10 @@
+1. https://web.mit.edu/6.034/wwwbob/svm.pdf
+2. https://en.wikipedia.org/wiki/Vapnik%E2%80%93Chervonenkis_dimension
+3. http://www.stat.columbia.edu/~madigan/DM08/svm.ppt.pdf
+4. https://www.google.com/search?channel=fs&client=ubuntu&q=kernel+svm+prediction
+5. https://stats.stackexchange.com/questions/299257/svm-how-to-get-predicted-output-from-svm-with-gaussian-rbf-kernel-andrew-ng
+6. https://data-flair.training/blogs/svm-kernel-functions/
+7. (*) http://crsouza.com/2010/03/17/kernel-functions-for-machine-learning-applications/#linear
+8. https://www.google.com/search?channel=fs&client=ubuntu&q=svm+primal+to+dual
+9. http://www.robots.ox.ac.uk/~az/lectures/ml/lect3.pdf
+	
